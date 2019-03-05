@@ -1,5 +1,6 @@
 ﻿New:Assignment3 delivered
 
+the demo gif is here: https://github.com/ppyJacK/weather-application/blob/master/weather_app.gif
 
 # Weather application
 
